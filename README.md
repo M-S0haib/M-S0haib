@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm M. Sohaib
 
-<!--
-**M-S0haib/M-S0haib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer focused on building AI-powered products with strong software and seamless user experiences.  
+I work across **Agentic AI**, **front-end development**, and **AI model integration** to create smart, modern applications.
 
-Here are some ideas to get you started:
+### What I Do
+- Build AI agents using tools like **CrewAI** and **OpenAI Agent SDK**
+- Develop sleek UIs with **Next.js**, **Tailwind CSS**, **shadcn**, and modern CSS libraries
+- Integrate **LLMs and AI models** directly into web apps
+- Work with **JavaScript**, **TypeScript**, **Python**, and explore **FastAPI** and **MySQL**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy bridging the gap between intelligent systems and intuitive interfaces.
+
